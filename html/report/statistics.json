@@ -1,0 +1,32 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 500,
+    "errorCount" : 29,
+    "errorPct" : 5.8,
+    "meanResTime" : 2343.232,
+    "minResTime" : 53.0,
+    "maxResTime" : 28035.0,
+    "pct1ResTime" : 12318.100000000308,
+    "pct2ResTime" : 14199.35,
+    "pct3ResTime" : 27914.73000000011,
+    "throughput" : 16.244842262581628,
+    "receivedKBytesPerSec" : 9.139849562607623,
+    "sentKBytesPerSec" : 5.215451027892394
+  },
+  "AuthRedis-analytics/usermonitor/net" : {
+    "transaction" : "AuthRedis-analytics/usermonitor/net",
+    "sampleCount" : 500,
+    "errorCount" : 29,
+    "errorPct" : 5.8,
+    "meanResTime" : 2343.232,
+    "minResTime" : 53.0,
+    "maxResTime" : 28035.0,
+    "pct1ResTime" : 12318.100000000308,
+    "pct2ResTime" : 14199.35,
+    "pct3ResTime" : 27914.73000000011,
+    "throughput" : 16.244842262581628,
+    "receivedKBytesPerSec" : 9.139849562607623,
+    "sentKBytesPerSec" : 5.215451027892394
+  }
+}

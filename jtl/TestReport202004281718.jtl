@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1180" it="0" lt="1180" ct="1026" ts="1588065496850" s="false" lb="智能课堂" rc="401" rm="" tn="Thread Group 1-1" dt="" by="322" sby="399" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain / &quot;message&quot; : &quot;success&quot;/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;orgId&quot;:&quot;1001044&quot;,&quot;techType&quot;:[{&quot;techId&quot;:&quot;27&quot;,&quot;techName&quot;:&quot;作业码&quot;}],&quot;moduleTypeValue&quot;:&quot;techModule&quot;,&quot;endTime&quot;:&quot;2022-01-15 19:19:00&quot;}</queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/bd/org/saveOrgModule</java.net.URL>
+</httpSample>
+<httpSample t="144" it="0" lt="144" ct="0" ts="1588065498042" s="false" lb="作业码" rc="401" rm="" tn="Thread Group 1-1" dt="" by="322" sby="399" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain / &quot;message&quot; : &quot;success&quot;/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;orgId&quot;:&quot;1001044&quot;,&quot;techType&quot;:[{&quot;techId&quot;:&quot;1&quot;,&quot;techName&quot;:&quot;智能课堂&quot;}],&quot;moduleTypeValue&quot;:&quot;techModule&quot;,&quot;endTime&quot;:&quot;2022-01-15 19:19:00&quot;}</queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/bd/org/saveOrgModule</java.net.URL>
+</httpSample>
+<httpSample t="482" it="0" lt="482" ct="0" ts="1588065498187" s="false" lb="智能课堂、作业码" rc="401" rm="" tn="Thread Group 1-1" dt="" by="322" sby="432" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain / &quot;message&quot; : &quot;success&quot;/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;orgId&quot;:&quot;1001044&quot;,&quot;techType&quot;:[{&quot;techId&quot;:&quot;1&quot;,&quot;techName&quot;:&quot;智能课堂&quot;},{&quot;techId&quot;:&quot;27&quot;,&quot;techName&quot;:&quot;作业码&quot;}],&quot;moduleTypeValue&quot;:&quot;techModule&quot;,&quot;endTime&quot;:&quot;2029-01-15 19:19:00&quot;}</queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/bd/org/saveOrgModule</java.net.URL>
+</httpSample>
+<sample t="1806" it="78" lt="1806" ct="1026" ts="1588065496783" s="false" lb="__api/bd/org/saveOrgModule" rc="" rm="Number of samples in transaction : 3, number of failing samples : 3" tn="Thread Group 1-1" dt="" by="966" sby="1230" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="235" it="0" lt="235" ct="154" ts="1588065498671" s="false" lb="loginOrg" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="439" sby="362" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /&quot;message&quot;:&quot;success/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">{&quot;err&quot;:null,&quot;code&quot;:&quot;1001&quot;,&quot;message&quot;:&quot;该账号不存在&quot;,&quot;data&quot;:null,&quot;successful&quot;:true}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;username&quot;:&quot;18301010101&quot;,&quot;branch&quot;:&quot;1001044&quot;,&quot;code&quot;:&quot;1111&quot;,&quot;systemId&quot;:11,&quot;orgId&quot;:1001044}</queryString>
+  <java.net.URL>https://zjt1.t1.learnta.cn/__api/auth/user/loginOrg</java.net.URL>
+</httpSample>
+<sample t="235" it="32" lt="235" ct="154" ts="1588065498670" s="false" lb="__api/auth/user/loginOrg" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="439" sby="362" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="209" it="0" lt="209" ct="85" ts="1588065498938" s="false" lb="智能课堂" rc="401" rm="" tn="Thread Group 1-1" dt="" by="322" sby="399" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain / &quot;message&quot; : &quot;success&quot;/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;orgId&quot;:&quot;1001044&quot;,&quot;techType&quot;:[{&quot;techId&quot;:&quot;27&quot;,&quot;techName&quot;:&quot;作业码&quot;}],&quot;moduleTypeValue&quot;:&quot;techModule&quot;,&quot;endTime&quot;:&quot;2022-01-15 19:19:00&quot;}</queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/bd/org/saveOrgModule</java.net.URL>
+</httpSample>
+<sample t="209" it="1" lt="209" ct="85" ts="1588065498938" s="false" lb="__api/bd/org/saveOrgModule" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="322" sby="399" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="78" it="0" lt="78" ct="0" ts="1588065499148" s="false" lb="loginOrg" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="439" sby="362" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /&quot;message&quot;:&quot;success/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">{&quot;err&quot;:null,&quot;code&quot;:&quot;1001&quot;,&quot;message&quot;:&quot;该账号不存在&quot;,&quot;data&quot;:null,&quot;successful&quot;:true}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;username&quot;:&quot;18301010101&quot;,&quot;branch&quot;:&quot;1001044&quot;,&quot;code&quot;:&quot;1111&quot;,&quot;systemId&quot;:11,&quot;orgId&quot;:1001044}</queryString>
+  <java.net.URL>https://zjt1.t1.learnta.cn/__api/auth/user/loginOrg</java.net.URL>
+</httpSample>
+<sample t="78" it="4" lt="78" ct="0" ts="1588065499148" s="false" lb="__api/auth/user/loginOrg" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="439" sby="362" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<sample t="287" it="5" lt="287" ct="85" ts="1588065498938" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 3, number of failing samples : 2" tn="Thread Group 1-1" dt="" by="761" sby="761" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="100" it="0" lt="100" ct="0" ts="1588065499231" s="false" lb="作业码" rc="401" rm="" tn="Thread Group 1-1" dt="" by="322" sby="399" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain / &quot;message&quot; : &quot;success&quot;/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;orgId&quot;:&quot;1001044&quot;,&quot;techType&quot;:[{&quot;techId&quot;:&quot;1&quot;,&quot;techName&quot;:&quot;智能课堂&quot;}],&quot;moduleTypeValue&quot;:&quot;techModule&quot;,&quot;endTime&quot;:&quot;2022-01-15 19:19:00&quot;}</queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/bd/org/saveOrgModule</java.net.URL>
+</httpSample>
+<sample t="100" it="2" lt="100" ct="0" ts="1588065499230" s="false" lb="__api/bd/org/saveOrgModule" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="322" sby="399" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="94" it="0" lt="93" ct="0" ts="1588065499332" s="false" lb="loginOrg" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="439" sby="362" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /&quot;message&quot;:&quot;success/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">{&quot;err&quot;:null,&quot;code&quot;:&quot;1001&quot;,&quot;message&quot;:&quot;该账号不存在&quot;,&quot;data&quot;:null,&quot;successful&quot;:true}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;username&quot;:&quot;18301010101&quot;,&quot;branch&quot;:&quot;1001044&quot;,&quot;code&quot;:&quot;1111&quot;,&quot;systemId&quot;:11,&quot;orgId&quot;:1001044}</queryString>
+  <java.net.URL>https://zjt1.t1.learnta.cn/__api/auth/user/loginOrg</java.net.URL>
+</httpSample>
+<sample t="94" it="4" lt="93" ct="0" ts="1588065499332" s="false" lb="__api/auth/user/loginOrg" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="439" sby="362" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<sample t="194" it="6" lt="193" ct="0" ts="1588065499230" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 3, number of failing samples : 2" tn="Thread Group 1-1" dt="" by="761" sby="761" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="500" it="0" lt="500" ct="0" ts="1588065499430" s="false" lb="智能课堂、作业码" rc="401" rm="" tn="Thread Group 1-1" dt="" by="322" sby="432" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain / &quot;message&quot; : &quot;success&quot;/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;orgId&quot;:&quot;1001044&quot;,&quot;techType&quot;:[{&quot;techId&quot;:&quot;1&quot;,&quot;techName&quot;:&quot;智能课堂&quot;},{&quot;techId&quot;:&quot;27&quot;,&quot;techName&quot;:&quot;作业码&quot;}],&quot;moduleTypeValue&quot;:&quot;techModule&quot;,&quot;endTime&quot;:&quot;2029-01-15 19:19:00&quot;}</queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/bd/org/saveOrgModule</java.net.URL>
+</httpSample>
+<sample t="500" it="0" lt="500" ct="0" ts="1588065499430" s="false" lb="__api/bd/org/saveOrgModule" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="322" sby="432" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="78" it="0" lt="78" ct="0" ts="1588065499930" s="false" lb="loginOrg" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="439" sby="362" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /&quot;message&quot;:&quot;success/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">{&quot;err&quot;:null,&quot;code&quot;:&quot;1001&quot;,&quot;message&quot;:&quot;该账号不存在&quot;,&quot;data&quot;:null,&quot;successful&quot;:true}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;username&quot;:&quot;18301010101&quot;,&quot;branch&quot;:&quot;1001044&quot;,&quot;code&quot;:&quot;1111&quot;,&quot;systemId&quot;:11,&quot;orgId&quot;:1001044}</queryString>
+  <java.net.URL>https://zjt1.t1.learnta.cn/__api/auth/user/loginOrg</java.net.URL>
+</httpSample>
+<sample t="78" it="4" lt="78" ct="0" ts="1588065499930" s="false" lb="__api/auth/user/loginOrg" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="439" sby="362" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<sample t="578" it="4" lt="578" ct="0" ts="1588065499430" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 3, number of failing samples : 2" tn="Thread Group 1-1" dt="" by="761" sby="794" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<sample t="1059" it="15" lt="1058" ct="85" ts="1588065498938" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 8, number of failing samples : 6" tn="Thread Group 1-1" dt="" by="2283" sby="2316" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="99" it="0" lt="99" ct="0" ts="1588065500013" s="false" lb="__api/bd/org/saveOrgModule" rc="401" rm="" tn="Thread Group 1-1" dt="" by="322" sby="432" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;orgId&quot;:&quot;1001044&quot;,&quot;techType&quot;:[{&quot;techId&quot;:&quot;1&quot;,&quot;techName&quot;:&quot;智能课堂&quot;},{&quot;techId&quot;:&quot;27&quot;,&quot;techName&quot;:&quot;作业码&quot;}],&quot;moduleTypeValue&quot;:&quot;techModule&quot;,&quot;endTime&quot;:&quot;2033-01-15 19:19:00&quot;}</queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/bd/org/saveOrgModule</java.net.URL>
+</httpSample>
+<sample t="99" it="0" lt="99" ct="0" ts="1588065500013" s="false" lb="辅助脚本" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="322" sby="432" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+
+</testResults>

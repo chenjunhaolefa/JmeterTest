@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1586" it="0" lt="1586" ct="1441" ts="1588066059594" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-45" dt="text" by="623" sby="337" ng="50" na="50">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1589" it="0" lt="1589" ct="1443" ts="1588066059591" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-32" dt="text" by="622" sby="337" ng="50" na="50">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1589" it="0" lt="1589" ct="1447" ts="1588066059591" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-7" dt="text" by="623" sby="337" ng="50" na="50">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1589" it="0" lt="1589" ct="1443" ts="1588066059591" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-44" dt="text" by="624" sby="337" ng="50" na="50">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1589" it="0" lt="1589" ct="1444" ts="1588066059591" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-19" dt="text" by="622" sby="337" ng="50" na="50">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1589" it="0" lt="1589" ct="1445" ts="1588066059591" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-9" dt="text" by="623" sby="337" ng="50" na="50">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1586" it="0" lt="1586" ct="1440" ts="1588066059594" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-13" dt="text" by="623" sby="337" ng="50" na="50">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1589" it="0" lt="1589" ct="1448" ts="1588066059591" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-37" dt="text" by="623" sby="337" ng="50" na="50">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1896" it="0" lt="1896" ct="1564" ts="1588066059594" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-49" dt="text" by="623" sby="337" ng="42" na="42">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1906" it="0" lt="1906" ct="1558" ts="1588066059591" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-27" dt="text" by="623" sby="337" ng="41" na="41">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1911" it="0" lt="1911" ct="1559" ts="1588066059591" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-17" dt="text" by="623" sby="337" ng="40" na="40">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1913" it="0" lt="1913" ct="1558" ts="1588066059594" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-12" dt="text" by="623" sby="337" ng="40" na="40">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1915" it="0" lt="1914" ct="1550" ts="1588066059594" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-18" dt="text" by="622" sby="337" ng="39" na="39">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1920" it="0" lt="1920" ct="1558" ts="1588066059591" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-41" dt="text" by="624" sby="337" ng="39" na="39">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1921" it="0" lt="1920" ct="1565" ts="1588066059591" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-21" dt="text" by="623" sby="337" ng="39" na="39">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1923" it="0" lt="1923" ct="1560" ts="1588066059591" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-31" dt="text" by="623" sby="337" ng="38" na="38">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1929" it="0" lt="1923" ct="1563" ts="1588066059593" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-46" dt="text" by="623" sby="337" ng="34" na="34">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1934" it="0" lt="1934" ct="1572" ts="1588066059591" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-16" dt="text" by="624" sby="337" ng="34" na="34">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1936" it="0" lt="1936" ct="1556" ts="1588066059591" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-50" dt="text" by="623" sby="337" ng="33" na="33">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1938" it="0" lt="1938" ct="1576" ts="1588066059591" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-24" dt="text" by="623" sby="337" ng="33" na="33">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1934" it="0" lt="1934" ct="1569" ts="1588066059595" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-48" dt="text" by="623" sby="337" ng="33" na="33">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1946" it="0" lt="1936" ct="1551" ts="1588066059594" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-47" dt="text" by="623" sby="337" ng="29" na="29">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1951" it="0" lt="1950" ct="1551" ts="1588066059595" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-29" dt="text" by="623" sby="337" ng="28" na="28">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1952" it="0" lt="1952" ct="1566" ts="1588066059594" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-39" dt="text" by="623" sby="337" ng="28" na="28">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1957" it="0" lt="1957" ct="1558" ts="1588066059591" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-8" dt="text" by="625" sby="337" ng="28" na="28">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1960" it="0" lt="1957" ct="1575" ts="1588066059591" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-11" dt="text" by="623" sby="337" ng="28" na="28">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1959" it="0" lt="1957" ct="1567" ts="1588066059594" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-28" dt="text" by="623" sby="337" ng="25" na="25">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1967" it="0" lt="1962" ct="1567" ts="1588066059594" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-33" dt="text" by="623" sby="337" ng="23" na="23">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1987" it="0" lt="1979" ct="1577" ts="1588066059593" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-43" dt="text" by="623" sby="337" ng="22" na="22">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1987" it="0" lt="1986" ct="1567" ts="1588066059594" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-4" dt="text" by="625" sby="337" ng="22" na="22">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1992" it="0" lt="1992" ct="1576" ts="1588066059591" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-2" dt="text" by="624" sby="337" ng="22" na="22">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="1997" it="0" lt="1997" ct="1825" ts="1588066059591" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-23" dt="text" by="623" sby="337" ng="19" na="19">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="2003" it="0" lt="2003" ct="1575" ts="1588066059593" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-14" dt="text" by="624" sby="337" ng="18" na="18">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="2045" it="0" lt="2045" ct="1573" ts="1588066059591" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-26" dt="text" by="625" sby="337" ng="17" na="17">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="2408" it="0" lt="2408" ct="1557" ts="1588066059594" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-38" dt="text" by="623" sby="337" ng="16" na="16">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="2756" it="0" lt="2756" ct="2595" ts="1588066059595" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-34" dt="text" by="622" sby="337" ng="15" na="15">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="3009" it="0" lt="3006" ct="1568" ts="1588066059595" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-20" dt="text" by="625" sby="337" ng="14" na="14">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="3821" it="0" lt="3820" ct="3463" ts="1588066059592" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-1" dt="text" by="624" sby="337" ng="13" na="13">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="3825" it="0" lt="3825" ct="3464" ts="1588066059591" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-22" dt="text" by="623" sby="337" ng="13" na="13">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="3828" it="0" lt="3827" ct="3462" ts="1588066059593" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-25" dt="text" by="623" sby="337" ng="11" na="11">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="3830" it="0" lt="3830" ct="3464" ts="1588066059591" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-30" dt="text" by="623" sby="337" ng="11" na="11">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="3847" it="0" lt="3847" ct="3751" ts="1588066059594" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-42" dt="text" by="623" sby="337" ng="9" na="9">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="3849" it="0" lt="3849" ct="3751" ts="1588066059594" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-10" dt="text" by="623" sby="337" ng="9" na="9">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="3855" it="0" lt="3855" ct="3752" ts="1588066059593" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-3" dt="text" by="623" sby="337" ng="7" na="7">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="3867" it="0" lt="3867" ct="3754" ts="1588066059591" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-35" dt="text" by="623" sby="337" ng="6" na="6">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="3873" it="0" lt="3873" ct="3759" ts="1588066059591" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-36" dt="text" by="622" sby="337" ng="5" na="5">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="4540" it="0" lt="4540" ct="4391" ts="1588066059595" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-5" dt="text" by="623" sby="337" ng="4" na="4">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="6331" it="0" lt="6331" ct="6249" ts="1588066059591" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-15" dt="text" by="623" sby="337" ng="3" na="3">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="6356" it="0" lt="6356" ct="6255" ts="1588066059591" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-6" dt="text" by="623" sby="337" ng="2" na="2">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+<httpSample t="6438" it="0" lt="6438" ct="6338" ts="1588066059592" s="false" lb="getAllTypeQuestion-少量" rc="401" rm="" tn="预发布 1-40" dt="text" by="623" sby="337" ng="1" na="1">
+  <responseData class="java.lang.String">{&quot;code&quot;:&quot;401&quot;,&quot;message&quot;:&quot;invalid_token&quot;,&quot;httpCode&quot;:&quot;401&quot;,&quot;err&quot;:null,&quot;data&quot;:null,&quot;successful&quot;:false}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://i.learnta.cn/__api/beatV3/pptTask/getAllTypeQuestion?orgId=100310&amp;category=1&amp;pageSize=10&amp;page=1&amp;keywords=Yang&amp;type=2&amp;pressId=6000067352&amp;_t=1582086752345</java.net.URL>
+</httpSample>
+
+<httpSample t="1120" it="0" lt="1120" ct="1003" ts="1588066067904" s="false" lb="智能课堂" rc="401" rm="" tn="Thread Group 1-1" dt="" by="322" sby="399" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain / &quot;message&quot; : &quot;success&quot;/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;orgId&quot;:&quot;1001044&quot;,&quot;techType&quot;:[{&quot;techId&quot;:&quot;27&quot;,&quot;techName&quot;:&quot;作业码&quot;}],&quot;moduleTypeValue&quot;:&quot;techModule&quot;,&quot;endTime&quot;:&quot;2022-01-15 19:19:00&quot;}</queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/bd/org/saveOrgModule</java.net.URL>
+</httpSample>
+<httpSample t="123" it="0" lt="123" ct="0" ts="1588066069038" s="false" lb="作业码" rc="401" rm="" tn="Thread Group 1-1" dt="" by="322" sby="399" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain / &quot;message&quot; : &quot;success&quot;/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;orgId&quot;:&quot;1001044&quot;,&quot;techType&quot;:[{&quot;techId&quot;:&quot;1&quot;,&quot;techName&quot;:&quot;智能课堂&quot;}],&quot;moduleTypeValue&quot;:&quot;techModule&quot;,&quot;endTime&quot;:&quot;2022-01-15 19:19:00&quot;}</queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/bd/org/saveOrgModule</java.net.URL>
+</httpSample>
+<httpSample t="127" it="0" lt="127" ct="0" ts="1588066069161" s="false" lb="智能课堂、作业码" rc="401" rm="" tn="Thread Group 1-1" dt="" by="322" sby="432" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain / &quot;message&quot; : &quot;success&quot;/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;orgId&quot;:&quot;1001044&quot;,&quot;techType&quot;:[{&quot;techId&quot;:&quot;1&quot;,&quot;techName&quot;:&quot;智能课堂&quot;},{&quot;techId&quot;:&quot;27&quot;,&quot;techName&quot;:&quot;作业码&quot;}],&quot;moduleTypeValue&quot;:&quot;techModule&quot;,&quot;endTime&quot;:&quot;2029-01-15 19:19:00&quot;}</queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/bd/org/saveOrgModule</java.net.URL>
+</httpSample>
+<sample t="1370" it="70" lt="1370" ct="1003" ts="1588066067843" s="false" lb="__api/bd/org/saveOrgModule" rc="" rm="Number of samples in transaction : 3, number of failing samples : 3" tn="Thread Group 1-1" dt="" by="966" sby="1230" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="225" it="0" lt="225" ct="153" ts="1588066069289" s="false" lb="loginOrg" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="439" sby="362" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /&quot;message&quot;:&quot;success/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">{&quot;err&quot;:null,&quot;code&quot;:&quot;1001&quot;,&quot;message&quot;:&quot;该账号不存在&quot;,&quot;data&quot;:null,&quot;successful&quot;:true}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;username&quot;:&quot;18301010101&quot;,&quot;branch&quot;:&quot;1001044&quot;,&quot;code&quot;:&quot;1111&quot;,&quot;systemId&quot;:11,&quot;orgId&quot;:1001044}</queryString>
+  <java.net.URL>https://zjt1.t1.learnta.cn/__api/auth/user/loginOrg</java.net.URL>
+</httpSample>
+<sample t="225" it="34" lt="225" ct="153" ts="1588066069288" s="false" lb="__api/auth/user/loginOrg" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="439" sby="362" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="329" it="0" lt="329" ct="0" ts="1588066069547" s="false" lb="智能课堂" rc="401" rm="" tn="Thread Group 1-1" dt="" by="322" sby="399" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain / &quot;message&quot; : &quot;success&quot;/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;orgId&quot;:&quot;1001044&quot;,&quot;techType&quot;:[{&quot;techId&quot;:&quot;27&quot;,&quot;techName&quot;:&quot;作业码&quot;}],&quot;moduleTypeValue&quot;:&quot;techModule&quot;,&quot;endTime&quot;:&quot;2022-01-15 19:19:00&quot;}</queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/bd/org/saveOrgModule</java.net.URL>
+</httpSample>
+<sample t="329" it="1" lt="329" ct="0" ts="1588066069547" s="false" lb="__api/bd/org/saveOrgModule" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="322" sby="399" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="72" it="0" lt="72" ct="0" ts="1588066069877" s="false" lb="loginOrg" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="439" sby="362" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /&quot;message&quot;:&quot;success/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">{&quot;err&quot;:null,&quot;code&quot;:&quot;1001&quot;,&quot;message&quot;:&quot;该账号不存在&quot;,&quot;data&quot;:null,&quot;successful&quot;:true}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;username&quot;:&quot;18301010101&quot;,&quot;branch&quot;:&quot;1001044&quot;,&quot;code&quot;:&quot;1111&quot;,&quot;systemId&quot;:11,&quot;orgId&quot;:1001044}</queryString>
+  <java.net.URL>https://zjt1.t1.learnta.cn/__api/auth/user/loginOrg</java.net.URL>
+</httpSample>
+<sample t="72" it="4" lt="72" ct="0" ts="1588066069877" s="false" lb="__api/auth/user/loginOrg" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="439" sby="362" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<sample t="401" it="5" lt="401" ct="0" ts="1588066069547" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 3, number of failing samples : 2" tn="Thread Group 1-1" dt="" by="761" sby="761" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="215" it="0" lt="215" ct="81" ts="1588066069953" s="false" lb="作业码" rc="401" rm="" tn="Thread Group 1-1" dt="" by="322" sby="399" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain / &quot;message&quot; : &quot;success&quot;/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;orgId&quot;:&quot;1001044&quot;,&quot;techType&quot;:[{&quot;techId&quot;:&quot;1&quot;,&quot;techName&quot;:&quot;智能课堂&quot;}],&quot;moduleTypeValue&quot;:&quot;techModule&quot;,&quot;endTime&quot;:&quot;2022-01-15 19:19:00&quot;}</queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/bd/org/saveOrgModule</java.net.URL>
+</httpSample>
+<sample t="216" it="0" lt="215" ct="81" ts="1588066069953" s="false" lb="__api/bd/org/saveOrgModule" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="322" sby="399" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="77" it="0" lt="77" ct="0" ts="1588066070169" s="false" lb="loginOrg" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="439" sby="362" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /&quot;message&quot;:&quot;success/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">{&quot;err&quot;:null,&quot;code&quot;:&quot;1001&quot;,&quot;message&quot;:&quot;该账号不存在&quot;,&quot;data&quot;:null,&quot;successful&quot;:true}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;username&quot;:&quot;18301010101&quot;,&quot;branch&quot;:&quot;1001044&quot;,&quot;code&quot;:&quot;1111&quot;,&quot;systemId&quot;:11,&quot;orgId&quot;:1001044}</queryString>
+  <java.net.URL>https://zjt1.t1.learnta.cn/__api/auth/user/loginOrg</java.net.URL>
+</httpSample>
+<sample t="77" it="4" lt="77" ct="0" ts="1588066070169" s="false" lb="__api/auth/user/loginOrg" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="439" sby="362" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<sample t="292" it="5" lt="292" ct="81" ts="1588066069953" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 3, number of failing samples : 2" tn="Thread Group 1-1" dt="" by="761" sby="761" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="107" it="0" lt="106" ct="0" ts="1588066070250" s="false" lb="智能课堂、作业码" rc="401" rm="" tn="Thread Group 1-1" dt="" by="322" sby="432" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain / &quot;message&quot; : &quot;success&quot;/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;orgId&quot;:&quot;1001044&quot;,&quot;techType&quot;:[{&quot;techId&quot;:&quot;1&quot;,&quot;techName&quot;:&quot;智能课堂&quot;},{&quot;techId&quot;:&quot;27&quot;,&quot;techName&quot;:&quot;作业码&quot;}],&quot;moduleTypeValue&quot;:&quot;techModule&quot;,&quot;endTime&quot;:&quot;2029-01-15 19:19:00&quot;}</queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/bd/org/saveOrgModule</java.net.URL>
+</httpSample>
+<sample t="107" it="0" lt="106" ct="0" ts="1588066070250" s="false" lb="__api/bd/org/saveOrgModule" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="322" sby="432" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="77" it="0" lt="77" ct="0" ts="1588066070357" s="false" lb="loginOrg" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="439" sby="362" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /&quot;message&quot;:&quot;success/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">{&quot;err&quot;:null,&quot;code&quot;:&quot;1001&quot;,&quot;message&quot;:&quot;该账号不存在&quot;,&quot;data&quot;:null,&quot;successful&quot;:true}</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;username&quot;:&quot;18301010101&quot;,&quot;branch&quot;:&quot;1001044&quot;,&quot;code&quot;:&quot;1111&quot;,&quot;systemId&quot;:11,&quot;orgId&quot;:1001044}</queryString>
+  <java.net.URL>https://zjt1.t1.learnta.cn/__api/auth/user/loginOrg</java.net.URL>
+</httpSample>
+<sample t="77" it="4" lt="77" ct="0" ts="1588066070357" s="false" lb="__api/auth/user/loginOrg" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="439" sby="362" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<sample t="184" it="4" lt="183" ct="0" ts="1588066070250" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 3, number of failing samples : 2" tn="Thread Group 1-1" dt="" by="761" sby="794" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<sample t="877" it="14" lt="876" ct="81" ts="1588066069547" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 8, number of failing samples : 6" tn="Thread Group 1-1" dt="" by="2283" sby="2316" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="130" it="0" lt="130" ct="0" ts="1588066070439" s="false" lb="__api/bd/org/saveOrgModule" rc="401" rm="" tn="Thread Group 1-1" dt="" by="322" sby="432" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;orgId&quot;:&quot;1001044&quot;,&quot;techType&quot;:[{&quot;techId&quot;:&quot;1&quot;,&quot;techName&quot;:&quot;智能课堂&quot;},{&quot;techId&quot;:&quot;27&quot;,&quot;techName&quot;:&quot;作业码&quot;}],&quot;moduleTypeValue&quot;:&quot;techModule&quot;,&quot;endTime&quot;:&quot;2033-01-15 19:19:00&quot;}</queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/bd/org/saveOrgModule</java.net.URL>
+</httpSample>
+<sample t="130" it="0" lt="130" ct="0" ts="1588066070439" s="false" lb="辅助脚本" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="322" sby="432" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+
+<httpSample t="1361" it="0" lt="1361" ct="973" ts="1588066072891" s="true" lb="wechat_public/wechat/qRcode/login_获取taskId和cate" rc="200" rm="" tn="智能练习卡 1-1" dt="text" by="531" sby="418" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;openId&quot;:&quot;&quot;,&quot;randomCode&quot;:&quot;cRLquluV8IGIW9vb82964&quot;,&quot;shareType&quot;:&quot;library&quot;,&quot;username&quot;:&quot;18301010101&quot;,&quot;mobile&quot;:&quot;18300000001&quot;,&quot;code&quot;:&quot;1111&quot;}</queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/wechat/public/wechat/qRcode/login</java.net.URL>
+</httpSample>
+<httpSample t="120" it="0" lt="117" ct="0" ts="1588066074292" s="true" lb="beatV3_public/classroom/task/taskDetail/176379_获取知识点详情" rc="200" rm="" tn="智能练习卡 1-1" dt="text" by="2210" sby="275" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/beatV3/public/classroom/task/taskDetail/176379</java.net.URL>
+</httpSample>
+<httpSample t="169" it="0" lt="168" ct="0" ts="1588066074414" s="false" lb="beatV3_student/task/11/176379/question_获取题目" rc="401" rm="" tn="智能练习卡 1-1" dt="" by="322" sby="384" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;userAnswers&quot;:[],&quot;isEvaluated&quot;:true,&quot;isRecommIfNoWeakPoints&quot;: false,&quot;taskExecutionId&quot;:&quot;176379&quot;}</queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/beatV3/student/task/11/176379/question</java.net.URL>
+</httpSample>
+<httpSample t="154" it="0" lt="154" ct="0" ts="1588066074663" s="false" lb="beat3_student/task/11/176379/report_报告页" rc="401" rm="" tn="智能练习卡 1-1" dt="" by="322" sby="265" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/beatV3/student/task/11/176379/report</java.net.URL>
+</httpSample>
+<httpSample t="113" it="0" lt="113" ct="0" ts="1588066074818" s="false" lb="beatV3_student/task/11/176379/question_获取题目" rc="401" rm="" tn="智能练习卡 1-1" dt="" by="322" sby="384" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;userAnswers&quot;:[],&quot;isEvaluated&quot;:true,&quot;isRecommIfNoWeakPoints&quot;: false,&quot;taskExecutionId&quot;:&quot;176379&quot;}</queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/beatV3/student/task/11/176379/question</java.net.URL>
+</httpSample>
+<httpSample t="185" it="0" lt="184" ct="78" ts="1588066074950" s="false" lb="beat3_student/task/11/176379/report_报告页" rc="401" rm="" tn="智能练习卡 1-1" dt="" by="322" sby="265" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/beatV3/student/task/11/176379/report</java.net.URL>
+</httpSample>
+<httpSample t="234" it="0" lt="234" ct="0" ts="1588066075136" s="false" lb="beatV3_student/task/11/176379/question_获取题目" rc="401" rm="" tn="智能练习卡 1-1" dt="" by="322" sby="384" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;userAnswers&quot;:[],&quot;isEvaluated&quot;:true,&quot;isRecommIfNoWeakPoints&quot;: false,&quot;taskExecutionId&quot;:&quot;176379&quot;}</queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/beatV3/student/task/11/176379/question</java.net.URL>
+</httpSample>
+<httpSample t="109" it="0" lt="108" ct="0" ts="1588066075386" s="false" lb="beat3_student/task/11/176379/report_报告页" rc="401" rm="" tn="智能练习卡 1-1" dt="" by="322" sby="265" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/beatV3/student/task/11/176379/report</java.net.URL>
+</httpSample>
+<httpSample t="120" it="0" lt="114" ct="0" ts="1588066075495" s="false" lb="beatV3_student/task/11/176379/question_获取题目" rc="401" rm="" tn="智能练习卡 1-1" dt="" by="322" sby="384" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;userAnswers&quot;:[],&quot;isEvaluated&quot;:true,&quot;isRecommIfNoWeakPoints&quot;: false,&quot;taskExecutionId&quot;:&quot;176379&quot;}</queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/beatV3/student/task/11/176379/question</java.net.URL>
+</httpSample>
+<httpSample t="116" it="0" lt="116" ct="0" ts="1588066075630" s="false" lb="beat3_student/task/11/176379/report_报告页" rc="401" rm="" tn="智能练习卡 1-1" dt="" by="322" sby="265" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/beatV3/student/task/11/176379/report</java.net.URL>
+</httpSample>
+<httpSample t="100" it="0" lt="100" ct="0" ts="1588066075747" s="false" lb="beatV3_student/task/11/176379/question_获取题目" rc="401" rm="" tn="智能练习卡 1-1" dt="" by="322" sby="384" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;userAnswers&quot;:[],&quot;isEvaluated&quot;:true,&quot;isRecommIfNoWeakPoints&quot;: false,&quot;taskExecutionId&quot;:&quot;176379&quot;}</queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/beatV3/student/task/11/176379/question</java.net.URL>
+</httpSample>
+<httpSample t="123" it="0" lt="94" ct="0" ts="1588066075861" s="false" lb="beat3_student/task/11/176379/report_报告页" rc="401" rm="" tn="智能练习卡 1-1" dt="" by="322" sby="265" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/beatV3/student/task/11/176379/report</java.net.URL>
+</httpSample>
+<httpSample t="95" it="0" lt="95" ct="0" ts="1588066075985" s="false" lb="beatV3_student/task/11/176379/question_获取题目" rc="401" rm="" tn="智能练习卡 1-1" dt="" by="322" sby="384" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;userAnswers&quot;:[],&quot;isEvaluated&quot;:true,&quot;isRecommIfNoWeakPoints&quot;: false,&quot;taskExecutionId&quot;:&quot;176379&quot;}</queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/beatV3/student/task/11/176379/question</java.net.URL>
+</httpSample>
+<httpSample t="99" it="0" lt="98" ct="0" ts="1588066076093" s="false" lb="beat3_student/task/11/176379/report_报告页" rc="401" rm="" tn="智能练习卡 1-1" dt="" by="322" sby="265" ng="1" na="1">
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://t1.learnta.cn/__api/beatV3/student/task/11/176379/report</java.net.URL>
+</httpSample>
+
+</testResults>

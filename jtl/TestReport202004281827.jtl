@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1623" it="0" lt="1622" ct="1149" ts="1588069674077" s="true" lb="AllServiceCheck-auth" rc="200" rm="" tn="AllServiceCheck 1-1" dt="text" by="2145" sby="285" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://autotestx.learnta.cn/__api/auth/role/rolelist/100067/11/0</java.net.URL>
+</httpSample>
+<httpSample t="93" it="0" lt="93" ct="0" ts="1588069675705" s="true" lb="AllServiceCheck-manage" rc="200" rm="" tn="AllServiceCheck 1-1" dt="text" by="575" sby="266" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://autotestx.learnta.cn/__api/manage/examOrder/income/100067</java.net.URL>
+</httpSample>
+<httpSample t="162" it="0" lt="162" ct="0" ts="1588069675799" s="true" lb="AllServiceCheck-analytics" rc="200" rm="" tn="AllServiceCheck 1-1" dt="text" by="565" sby="444" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;orgId&quot;:100067,&quot;systemId&quot;:&quot;3&quot;,&quot;device&quot;:&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36&quot;}</queryString>
+  <java.net.URL>https://autotestx.learnta.cn/__api/analytics/usermonitor/device</java.net.URL>
+</httpSample>
+<httpSample t="243" it="0" lt="242" ct="0" ts="1588069675961" s="true" lb="AllServiceCheck-beatV3" rc="200" rm="" tn="AllServiceCheck 1-1" dt="text" by="476" sby="273" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://autotestx.learnta.cn/__api/beatV3/ppt/classroom/tagList/100067/0</java.net.URL>
+</httpSample>
+<httpSample t="903" it="0" lt="902" ct="787" ts="1588069676205" s="true" lb="AllServiceCheck-wechat" rc="200" rm="" tn="AllServiceCheck 1-1" dt="text" by="584" sby="362" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;tokenStr&quot;:&quot;3e89a421-3d87-3e2f-b815-659d076fc4de&quot;,&quot;type&quot;:&quot;localEvalution&quot;,&quot;id&quot;:&quot;&quot;}</queryString>
+  <java.net.URL>https://www.learnta.cn/__api/wechat/public/redirectVerify</java.net.URL>
+</httpSample>
+<httpSample t="391" it="0" lt="173" ct="66" ts="1588069677108" s="true" lb="AllServiceCheck-library" rc="200" rm="" tn="AllServiceCheck 1-1" dt="text" by="37333" sby="262" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://autotestx.learnta.cn/__api/library/newCourse/getPress</java.net.URL>
+</httpSample>
+<httpSample t="96" it="0" lt="96" ct="0" ts="1588069677499" s="true" lb="AllServiceCheck-bd" rc="200" rm="" tn="AllServiceCheck 1-1" dt="text" by="672" sby="267" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://autotestx.learnta.cn/__api/bd/org/live/config?orgId=100067</java.net.URL>
+</httpSample>
+<httpSample t="105" it="0" lt="94" ct="0" ts="1588069677596" s="true" lb="AllServiceCheck-material" rc="200" rm="" tn="AllServiceCheck 1-1" dt="text" by="3141" sby="315" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://autotestx.learnta.cn/__api/material/folder/tree?orgId=100067&amp;category=1&amp;questionLibraryType=2&amp;userId=52214</java.net.URL>
+</httpSample>
+<httpSample t="109" it="0" lt="105" ct="0" ts="1588069677702" s="true" lb="AllServiceCheck-admin" rc="200" rm="" tn="AllServiceCheck 1-1" dt="text" by="2061" sby="343" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;orgId&quot;:&quot;100067&quot;,&quot;isOwn&quot;:1,&quot;pageNo&quot;:1,&quot;pageSize&quot;:10}</queryString>
+  <java.net.URL>https://autotestx.learnta.cn/__api/admin/question/orgQuestion/list/1</java.net.URL>
+</httpSample>
+<httpSample t="88" it="0" lt="88" ct="0" ts="1588069677812" s="true" lb="AllServiceCheck-dataanalysis" rc="200" rm="" tn="AllServiceCheck 1-1" dt="text" by="834" sby="301" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://autotestx.learnta.cn/__api/dataanalysis/student/page?orgId=100067&amp;name=&amp;pageSize=10&amp;pageNo=1</java.net.URL>
+</httpSample>
+
+</testResults>
